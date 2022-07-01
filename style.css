@@ -9,4 +9,15 @@ body {
 }
 h2 {
     margin-top: 10vh;
+    background-color: rgb(46, 45, 45);
+    color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+}
+p{
+    color: white;
+    width: 70%;
+    margin: 0 auto;
 }
