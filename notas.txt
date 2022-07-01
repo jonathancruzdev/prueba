@@ -1,0 +1,24 @@
+1. Verificar si se insatalo correctamente
+en el CMD
+
+git -- vesion
+
+
+git config --global user.name
+git config --global user.email 
+
+git init --> Inicializa el repositorio
+
+git status --> Muesta el estado de los archivos
+
+git add . --> Agrega los archivos
+
+git commit -m "Proyecto base"
+
+
+RAMAS
+
+git branch nombre-rama
+
+Vincular el repositorio local con el remoto
+git remote add orign "www.servidor.com"
